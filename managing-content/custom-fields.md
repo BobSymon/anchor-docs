@@ -9,16 +9,16 @@ Here you can create new fields which show up in the "Posts" or "Pages" editing i
 
 Navigate to "Extend" in the admin menu to find 'Custom Fields'. You'll be taken to the page below:
 
-![Anchor’s Extend screen](/images/extend.png)
+![Anchor’s Extend screen](/images/extend.PNG)
 
 ## Creating/editing custom fields
 Click on "Custom Fields" to create or edit your custom field. 
 
-![Anchor’s Custom Fields screen](/images/custom-fields.png)
+![Anchor’s Custom Fields screen](/images/custom-fields.PNG)
 
 From the "Custom Fields" screen (displayed above) you can edit your previously created custom fields by selecting them. To create a new custom field, click the green "Create a new field button".
 
-![Anchor’s New Custom Fields screen](/images/new-custom-field.png)
+![Anchor’s New Custom Fields screen](/images/new-custom-field.PNG)
 
 You'll be taken to the "Custom Fields" screen displayed above. Fill out the fields on this page. Each is explained below:
 
