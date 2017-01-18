@@ -11,7 +11,7 @@ Navigate to "Extend" in the admin menu to find 'Custom Fields'. You'll be taken 
 
 ![Anchor’s Extend screen](/images/extend.png)
 
-##Creating/editing custom fields
+## Creating/editing custom fields
 Click on "Custom Fields" to create or edit your custom field. 
 
 ![Anchor’s Custom Fields screen](/images/custom-fields.png)
@@ -22,21 +22,21 @@ From the "Custom Fields" screen (displayed above) you can edit your previously c
 
 You'll be taken to the "Custom Fields" screen displayed above. Fill out the fields on this page. Each is explained below:
 
-Type
+### Type
 Choose whether your customisation will appear in your posts or on a page
 
-Field
+### Field
 This determines how your new field will be tagged in HTML.
 
-Unique Key
+### Unique Key
 This string will be used to call your field in your code.
 
-Label
+### Label
 Choose a name that allows you to distinguish between other fields you may add to your blog.
 
 When you click "Save" your new custom field will be made available in the editing interface of your choice (page or post). 
 
-##Calling your custom field
+## Calling your custom field
 See below for the code you need to call your custom field, replacing 'UniqueKey' with the unique key you assigned:
 
 For pages:
