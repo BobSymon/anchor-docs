@@ -531,6 +531,7 @@ a.entypo-google {
 	font-weight: 500;
 	float: left;
 	svg {
+		fill: $copy;
 		margin: -12px 0 -7px;
 		vertical-align: middle;
 		@include transform-origin(50% 18%);
@@ -594,12 +595,6 @@ a.entypo-google {
 		line-height: 1.3em;
 		padding-bottom: 0.5em;
 	}
-}
-
-.icon-logo {
-  width: 20px;
-  height: 20px;
-  fill: $copy;
 }
 
 // Mobile toggle button
