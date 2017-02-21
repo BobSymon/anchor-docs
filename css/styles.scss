@@ -534,6 +534,8 @@ a.entypo-google {
 		margin: -12px 0 -7px;
 		vertical-align: middle;
 		@include transform-origin(50% 18%);
+		max-width: 24px;
+		max-height: 22px;
 	}
 	a {
 		margin-left: 58px;
@@ -910,7 +912,7 @@ a.entypo-google {
 			height: .9em;
 		}
 	}
-	.logo img {
+	.logo svg {
 		width: 1.5em;
 	}
 }
@@ -945,7 +947,7 @@ a.entypo-google {
 			bottom: 0;
 			left: 0;
 		}
-		img {
+		svg {
 			position: relative;
 			margin: 0;
 		}
