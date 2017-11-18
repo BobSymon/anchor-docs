@@ -897,21 +897,6 @@ a.entypo-google {
 }
 
 // Responsive Styling
-@media (min-width: 2000px) {
-	body {
-		font-size: 20px;
-	}
-	a.button {
-		line-height: .8em;
-		&.icon {
-			height: .9em;
-		}
-	}
-	.logo svg {
-		width: 1.5em;
-	}
-}
-
 @media (min-width: 768px) and (max-width: 979px) {
 	body {
 		font-size: 11px;
