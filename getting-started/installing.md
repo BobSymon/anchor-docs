@@ -15,7 +15,7 @@ Before installing, make sure your platform has the [required](/docs/getting-star
 	this folder might be called `public_html`, `web`, or `httpdocs`.
 4.	Most server should be configured to allow the webserver to read and write to
 	your files and folders, but some do not, in this case you will have to change
-	the permissions on the `contents` and `anchor/config` folder to `0777` for
+	the permissions on the `contents`, `anchor/config` and `anchor/install` folders to `0777` for
 	the installer to run.
 5.	Next you will need to create a database for Anchor to install to, this can
 	be called anything you like. On different host this process might vary,
