@@ -5,7 +5,7 @@ title: Installing
 
 # Installing
 
-Before installing, make sure your platform has the [required](/docs) components to run Anchor.
+Before installing, make sure your platform has the [required](/) components to run Anchor.
 
 1.	Download the latest version of Anchor [here](//anchorcms.com/download).
 2.	Navigate to your downloading file and extract the contents.
