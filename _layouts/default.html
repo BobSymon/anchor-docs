@@ -1,5 +1,5 @@
 <!DOCTYPE html>
-<html>
+<html lang="en-GB">
 	<head>
 		{% include meta.html %}
 		<link href="/css/styles.css" media="all" rel="stylesheet">
@@ -8,6 +8,10 @@
 	</head>
 	<body>
 		{% include icons.svg %}
+
+		{% if page.url != '/' %}
+			{% include banner.html %}
+		{% endif %}
 
 		{% include header.html %}
 

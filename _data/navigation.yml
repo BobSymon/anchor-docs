@@ -1,15 +1,15 @@
 # Header nav
 header:
 - title: Anchor
-  url: 'http://anchorcms.com'
+  url: /
 - title: Docs
-  url: 'http://docs.anchorcms.com'
+  url: /docs/
 - title: Themes
-  url: 'http://anchorthemes.com'
+  url: 'https://anchorthemes.com'
 - title: Forum
   url: 'http://forums.anchorcms.com'
 - title: Blog
-  url: 'http://blog.anchorcms.com'
+  url: /blog/
 
 # Footer nav
 footer:
@@ -27,106 +27,106 @@ sidebar:
 - title: Resources
   subnav:
   - title: Logos & Assets
-    url: /resources/
+    url: /docs/
   - title: Design Guidelines
-    url: /resources#design-guidelines
+    url: /docs/#design-guidelines
   - title: Recommended Hosts
-    url: /resources#recommended-hosts
+    url: /docs/#recommended-hosts
 
 # Getting started
 - title: Getting started
   subnav:
   - title: System Requirements
-    url: /
+    url: /docs/getting-started/requirements/
   - title: Installing Anchor
-    url: /getting-started/installing/
+    url: /docs/getting-started/installing/
   - title: Upgrading Anchor
-    url: /getting-started/upgrading/
+    url: /docs/getting-started/upgrading/
   - title: Configuration
-    url: /getting-started/configuration/
+    url: /docs/getting-started/configuration/
 
 # The Admin Interface
 - title: The Admin Interface
   subnav:
   - title: Posts (Articles)
-    url: /managing-content/posts/
+    url: /docs/managing-content/posts/
   - title: Comments
-    url: /managing-content/comments/
+    url: /docs/managing-content/comments/
   - title: Pages
-    url: /managing-content/pages/
+    url: /docs/managing-content/pages/
   - title: Categories
-    url: /managing-content/categories/
+    url: /docs/managing-content/categories/
   - title: Users
-    url: /managing-content/users/
+    url: /docs/managing-content/users/
   - title: Metadata
-    url: /managing-content/metadata/
+    url: /docs/managing-content/metadata/
   - title: Custom Fields
-    url: /managing-content/custom-fields/
+    url: /docs/managing-content/custom-fields/
   - title: Custom Variables
-    url: /managing-content/custom-variables/
+    url: /docs/managing-content/custom-variables/
 
 # Theming
 - title: Theming
   subnav:
   - title: Introduction
-    url: /theming/introduction/
+    url: /docs/theming/introduction/
   - title: File Structure
-    url: /theming/file-structure/
+    url: /docs/theming/file-structure/
   - title: Custom Templates
-    url: /theming/custom-templates/
+    url: /docs/theming/custom-templates/
 
 # Function Reference
 - title: Function Reference
   subnav:
   - title: Articles
-    url: /function-reference/articles/
+    url: /docs/function-reference/articles/
   - title: Categories
-    url: /function-reference/categories/
+    url: /docs/function-reference/categories/
   - title: Comments
-    url: /function-reference/comments/
+    url: /docs/function-reference/comments/
   - title: Config
-    url: /function-reference/config/
+    url: /docs/function-reference/config/
   - title: Helpers
-    url: /function-reference/helpers/
+    url: /docs/function-reference/helpers/
   - title: Menus
-    url: /function-reference/menus/
+    url: /docs/function-reference/menus/
   - title: Metadata
-    url: /function-reference/metadata/
+    url: /docs/function-reference/metadata/
   - title: Pages
-    url: /function-reference/pages/
+    url: /docs/function-reference/pages/
   - title: Posts
-    url: /function-reference/posts/
+    url: /docs/function-reference/posts/
   - title: Search
-    url: /function-reference/search/
+    url: /docs/function-reference/search/
   - title: Users
-    url: /function-reference/users/
+    url: /docs/function-reference/users/
 
 # Class Reference
 - title: Class Reference
   subnav:
   - title: Base
-    url: /class-reference/base/
+    url: /docs/class-reference/base/
   - title: Category
-    url: /class-reference/category/
+    url: /docs/class-reference/category/
   - title: Comment
-    url: /class-reference/comment/
+    url: /docs/class-reference/comment/
   - title: Extend
-    url: /class-reference/extend/
+    url: /docs/class-reference/extend/
   - title: Page
-    url: /class-reference/page/
+    url: /docs/class-reference/page/
 #  - title: Plugin
-#    url: /class-reference/plugin/
+#    url: /docs/class-reference/plugin/
   - title: Post
-    url: /class-reference/post/
+    url: /docs/class-reference/post/
   - title: User
-    url: /class-reference/user/
+    url: /docs/class-reference/user/
 
 # Plugins
 #- title: Plugins
 #  subnav:
 #  - title: Introduction
-#    url: /plugins/introduction/
+#    url: /docs/plugins/introduction/
 #  - title: File Structure
-#    url: /plugins/file-structure/
+#    url: /docs/plugins/file-structure/
 #  - title: The plugin.php file
-#    url: /plugins/plugin-file/
+#    url: /docs/plugins/plugin-file/

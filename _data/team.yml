@@ -1,0 +1,16 @@
+- name: Charlotte
+  subtitle: Co-creator
+  url: 'http://heartscrawl.com/'
+  image: "https://pbs.twimg.com/profile_images/1979424807/panda_wilde_400x400.jpg"
+- name: Craig
+  subtitle: Co-creator
+  url: 'https://craigchilds.me/'
+  image: "https://avatars1.githubusercontent.com/u/660195?s=460&u=1340ee1c70f850ffd625057b8b6a02200d473e35&v=4"
+- name: Kieron
+  subtitle: Lead developer
+  url: 'https://craigchilds.me/'
+  image: "https://avatars0.githubusercontent.com/u/596586?s=460&v=4"
+- name: Dave
+  subtitle: Themes
+  url: 'https://darn.es/'
+  image: "https://avatars2.githubusercontent.com/u/1177460?s=460&u=6365e1c551e825213a7b0ec053b1fdb8236e2367&v=4"

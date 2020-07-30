@@ -3,19 +3,16 @@ layout: default
 ---
 
 <div class="container name">
-	<h1 itemprop="name">Docs</h1>
+	<span class="h1" itemprop="name">Docs</span>
 </div>
 
 <main class="main page">
-	<article class="article container">
+	<div class="container">
 		<div class="row">
-
-			<div class="span-9">
+			<article class="article span-9">
 				{{ content }}
-			</div>
-
+			</article>
 			{% include sidebar.html %}
-
 		</div>
-	</article>
+	</div>
 </main>

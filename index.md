@@ -1,26 +1,16 @@
 ---
-layout: page
-title: Requirements
+layout: front
+title: Anchor CMS
 ---
 
-# Requirements
+# Lifting Anchor
 
-In order to remain lightweight, Anchor only supports recent versions of the languages it’s written in. As such, you will need:
+**Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.**
 
-* PHP 5.6+
-	* curl
-	* mcrypt
-	* gd
-	* php\-mbstring
-	* pdo\_mysql or pdo\_sqlite
-* MySQL 5.6+
+Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.
 
-If you’re not sure what version of PHP you have, create a new file, and paste the following in at the top of the page:
+![Screenshot of the Anchor CMS UI](/images/screenshot.png)
 
-``` php
-<?php echo PHP_VERSION; // version.php
-```
+Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.
 
-This should print a number to your screen, which should be bigger than `5.6.0`.
-
-**If you don’t have the necessary requirements, you will not be able to install Anchor.** Contact your host to upgrade.
+Thanks, the Anchor CMS team ⚓️💖
